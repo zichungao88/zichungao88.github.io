@@ -23,7 +23,7 @@ body {
 
 img {
     width: 800px;
-    margin-top: 20px;
+    margin-top: 30px;
 }
 
 .center img {        
@@ -36,7 +36,32 @@ img {
     font-size: 12px;
 }
 
-.description {
+.image-credit a {
+    color: white;
+}
+
+.image-credit a:hover {
+    color: skyblue;
+}
+
+.description1 {
+    color: #eee4c0;
+    font-size: 40px;
+    font-family: Arial, sans-serif;
+    margin-top: 50px;
+    white-space: nowrap;
+}
+
+.description2 {
+    color: #eee4c0;
+    font-size: 40px;
+    font-family: Arial, sans-serif;
+    margin-top: 20px;
+    white-space: nowrap;
+}
+
+.description3 {
+    color: #eee4c0;
     font-size: 40px;
     font-family: Arial, sans-serif;
     margin-top: 20px;
@@ -45,7 +70,7 @@ img {
 
 .resume {
     font-size: 30px;
-    margin-top: 30px;
+    margin-top: 40px;
 }
 
 .resume a {
@@ -61,6 +86,14 @@ img {
     background-color: #001260;
 }
 
+.profiles {
+    color: aqua;
+    font-size: 60px;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-top: 80px;
+}
+
 .links {
     margin-top: 20px;
     display: flex;
@@ -74,13 +107,6 @@ img {
 
 .links img {
     width: 60px;
-}
-
-.profiles {
-    font-size: 60px;
-    font-weight: bold;
-    text-decoration: underline;
-    margin-top: 40px;
 }
 
 .footer {

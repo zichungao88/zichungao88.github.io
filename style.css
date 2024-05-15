@@ -79,24 +79,6 @@ img {
     margin-top: 20px;
 }
 
-.resume {
-    font-size: 30px;
-    margin-top: 40px;
-}
-
-.resume a {
-    color: aquamarine;
-    text-decoration: none;
-    border: 2px solid aquamarine;
-    padding: 5px 10px;
-    border-radius: 8px;
-    transition: background-color 0.3s, color 0.3s;
-}
-
-.resume a:hover {
-    background-color: #001260;
-}
-
 .profiles {
     color: aqua;
     font-size: 60px;
@@ -118,6 +100,24 @@ img {
 
 .links img {
     width: 60px;
+}
+
+.resume {
+    font-size: 30px;
+    margin-top: 40px;
+}
+
+.resume a {
+    color: aquamarine;
+    text-decoration: none;
+    border: 2px solid aquamarine;
+    padding: 5px 10px;
+    border-radius: 8px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.resume a:hover {
+    background-color: #014545;
 }
 
 .footer {

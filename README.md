@@ -1,5 +1,5 @@
 # Jerry's Personal Profile
 
-New Page Coming Soon! (hopefully)
+More Content Coming Soon!
 
-Last Modified: December 20, 2025
+Last Modified: December 22, 2025
